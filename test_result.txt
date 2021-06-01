@@ -1,0 +1,49 @@
+New SSL connection state is  :0x55a2b50342a0
+Connected with AES128-SHA encryption
+Server certificates:
+Subject: /CN=srv.exatest.dynu.net
+Issuer: /CN=exatest.dynu.net
+Received :HELO
+
+Printing vector values:
+HELO
+
+Congratulations! EHELO
+ is written to server
+Connected with AES128-SHA encryption
+Server certificates:
+Subject: /CN=srv.exatest.dynu.net
+Issuer: /CN=exatest.dynu.net
+Received :POW vZXSqKDFNsQdnflJcbXAzXppFDAqkKPBSHfNOballQqfWKAKNmBtWSMamNAxVhCA 9
+
+Printing vector values:
+POW
+vZXSqKDFNsQdnflJcbXAzXppFDAqkKPBSHfNOballQqfWKAKNmBtWSMamNAxVhCA
+9
+
+Random string is :  p0V6iAixpPpYrYI9fs8gQWWa1pj2uVzOGG0EQcxs9LBA2N8MWCP9vWlLsu5nmutw
+authdata is :  JuuQODmDupNGYGdGnzPLXjjTVaMqeJZYmIgDosGXIWXVUoHaYgpFkzPHSldruFaF
+autdata_internal is :  JuuQODmDupNGYGdGnzPLXjjTVaMqeJZYmIgDosGXIWXVUoHaYgpFkzPHSldruFaF
+Checksum is :  819b162719de1e9be96df70cf3bcc6c289600573
+Leadind 0s  0
+Random string is :  MVMkss2QkJeDjpjrNtTvELc52xrRhEiUBegW4a7kMZ58TbJQPRiHMazUJm6Ddk43
+authdata is :  JuuQODmDupNGYGdGnzPLXjjTVaMqeJZYmIgDosGXIWXVUoHaYgpFkzPHSldruFaF
+autdata_internal is :  JuuQODmDupNGYGdGnzPLXjjTVaMqeJZYmIgDosGXIWXVUoHaYgpFkzPHSldruFaF
+Checksum is :  00619f0fce0a9e5365000eec1a5cff6bc1892c01
+Leadind 0s  2
+
+SSL_write written  KLhiXRNBOXLhAD69kKs06VCTDxEZP5WtH9o3Ztx70Yo40XiX9xAIjERoRfwqOhLR
+
+Connected with AES128-SHA encryption
+Server certificates:
+Subject: /CN=srv.exatest.dynu.net
+Issuer: /CN=exatest.dynu.net
+Received :POW
+Printing vector values:
+POW
+Connected with AES128-SHA encryption
+Server certificates:
+Subject: /CN=srv.exatest.dynu.net
+Issuer: /CN=exatest.dynu.net
+Received :POW
+
